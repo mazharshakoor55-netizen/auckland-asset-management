@@ -11,7 +11,8 @@ multi-layer dashboard.
 The methodology scales to all of Auckland; Rodney was chosen as a representative
 pilot area.
 
-![Dashboard](outputs/dashboard_screenshot.png)
+<img width="1895" height="972" alt="image" src="https://github.com/user-attachments/assets/ebcde624-b11a-476a-8e20-07ffff94beab" />
+
 
 ---
 
